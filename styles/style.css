@@ -1,0 +1,45 @@
+a {
+	text-decoration: none;
+}
+
+.container {
+	border: 3px solid #000; 
+	background-color:#FFF; 
+	background-image: url('http://i.imgur.com/krk1ngF.jpg');
+	height: 612px;
+	width: 612px;
+	border-radius: 20px;
+	margin: 100px auto;
+}
+
+
+.btn1 {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: none;
+  top: 645px;
+  left: 339px;
+}
+
+
+.btn2 {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: none;
+  top: 660px;
+  left: 450px;  
+}
+
+.btn3 {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: none;
+  top: 645px;
+  left: 560px;
+}
